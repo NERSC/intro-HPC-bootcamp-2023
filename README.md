@@ -3,15 +3,11 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Links
 
-Bootcamp public page: https://shinstitute.org/intro-to-hpc-bootcamp/
-
-Bootcamp participants website: https://shinstitute.org/energy-justice-bootcamp-2023/
-
-Join the Slack workspace: https://join.slack.com/t/introtohpcbootcamp/shared_invite/zt-1zib8v8o7-YScKtNaFBoLif2EvdhcYcQ
-
-NERSC user account info: https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/
-
-NERSC JupyterHub: https://jupyter.nersc.gov
+* Bootcamp public page: https://shinstitute.org/intro-to-hpc-bootcamp/
+* Bootcamp website for participants (with agenda): https://shinstitute.org/energy-justice-bootcamp-2023/
+* Join the Slack workspace: https://join.slack.com/t/introtohpcbootcamp/shared_invite/zt-1zib8v8o7-YScKtNaFBoLif2EvdhcYcQ
+* NERSC user account info: https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/
+* NERSC JupyterHub: https://jupyter.nersc.gov
 
 ## Projects
 | **Project (and link project description)**                                                                                                                                                                                                                                    | Project Page                                                                              | Institution              | **Lead**                                      |
@@ -23,3 +19,9 @@ NERSC JupyterHub: https://jupyter.nersc.gov
 | [Project 5: Energy Cost for Disadvantaged Populations and Methods of Energy Efficiency and Energy Optimization in Computing Systems](https://shinstitute.org/energy-cost-for-disadvantaged-populations-and-methods-of-energy-efficiency-and-energy-optimization-in-computing-systems/)   | null                                                                                      | NERSC                    | Charles Lively                                |
 | [Project 6: Power Outages and Inequities in Energy Access for Medically Vulnerable Populations](https://shinstitute.org/power-outages-and-inequities-in-energy-access-for-medically-vulnerable-populations/)                                                                             | [Github](https://github.com/secondspass/power_outages_medically_vulnerable_populations/)  | OLCF                     | Subil Abraham                                 |
 | [Project 7: Socioeconomics of Power Outages and Heatwaves](https://shinstitute.org/socioeconomics-of-power-outages-and-heatwaves/)                                                                                                                                                       | [Github](https://github.com/suzannepk/power_outages_socioeconomics-)                      | OLCF                     | Suzanne Parete-Koon                           |
+
+## Some Study Materials
+
+* OLCF Intro to Python repo: https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python
+* Pandas tutorial:  https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/
+* Example interactive Notebooks from Environmental Enforcement Watch: https://www.environmentalenforcementwatch.org/data/notebooks
