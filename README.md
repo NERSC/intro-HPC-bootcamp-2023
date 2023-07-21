@@ -3,11 +3,11 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Links
 
-* Bootcamp public page: https://shinstitute.org/intro-to-hpc-bootcamp/
-* Bootcamp website for participants (with agenda): https://shinstitute.org/energy-justice-bootcamp-2023/
-* Join the Slack workspace: https://join.slack.com/t/introtohpcbootcamp/shared_invite/zt-1zib8v8o7-YScKtNaFBoLif2EvdhcYcQ
-* NERSC user account info: https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/
-* NERSC JupyterHub: https://jupyter.nersc.gov
+* [Bootcamp public page](https://shinstitute.org/intro-to-hpc-bootcamp/)
+* [Bootcamp website for participants](https://shinstitute.org/energy-justice-bootcamp-2023/)
+* [Join the Slack workspace](https://join.slack.com/t/introtohpcbootcamp/shared_invite/zt-1zib8v8o7-YScKtNaFBoLif2EvdhcYcQ)
+* [NERSC user account info](https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/)
+* [NERSC JupyterHub](https://jupyter.nersc.gov)
 
 ## Projects
 | **Project (and link project description)**                                                                                                                                                                                                                                    | Project Page                                                                              | Institution              | **Lead**                                      |
@@ -22,6 +22,6 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Some Study Materials
 
-* OLCF Intro to Python repo: https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python
-* Pandas tutorial:  https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/
-* Example interactive Notebooks from Environmental Enforcement Watch: https://www.environmentalenforcementwatch.org/data/notebooks
+* [OLCF Intro to Python repo](https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python)
+* [Pandas tutorial](https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
+* [Example interactive Notebooks for data research from Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/data/notebooks)
