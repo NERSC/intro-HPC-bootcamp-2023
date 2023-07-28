@@ -9,7 +9,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * [NERSC user account info](https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/)
 * [NERSC JupyterHub](https://jupyter.nersc.gov)
 
-## Tutorials / Talks Slides
+## Tutorials / Talks
 * Tutorial/Talk 1 title, with link to slides/materials (TBA)
 * Tutorial/Talk 2 title, with link to slides/materials (TBA)
 * ... 
