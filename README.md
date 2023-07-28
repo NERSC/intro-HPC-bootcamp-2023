@@ -9,6 +9,11 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * [NERSC user account info](https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/)
 * [NERSC JupyterHub](https://jupyter.nersc.gov)
 
+## Tutorials
+* Tutorial 1 (TBA)
+* Tutorial 2 (TBA)
+* ... 
+  
 ## Projects
 | **Project (and link project description)**                                                                                                                                                                                                                                    | Project Page                                                                              | Institution              | **Lead**                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------:|:------------------------:|:---------------------------------------------:|
