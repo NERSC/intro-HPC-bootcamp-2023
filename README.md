@@ -29,23 +29,27 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 | [Project 6: Power Outages and Inequities in Energy Access for Medically Vulnerable Populations](https://shinstitute.org/power-outages-and-inequities-in-energy-access-for-medically-vulnerable-populations/)                                                                             | [Github](https://github.com/secondspass/power_outages_medically_vulnerable_populations/)  | OLCF                     | Subil Abraham                                 |
 | [Project 7: Socioeconomics of Power Outages and Heatwaves](https://shinstitute.org/socioeconomics-of-power-outages-and-heatwaves/)                                                                                                                                                       | [Github](https://github.com/suzannepk/power_outages_socioeconomics-)                      | OLCF                     | Suzanne Parete-Koon                           |
 
+## Working on Project in Groups
 
-## Some Notes on Working on Projects in Groups
-
-* Besides Projects materials provided in the links in the above table, each project has prepared the project descriptions and data in the m4388 project area on the Community File System (CFS) on Perlmutter at `/global/cfs/cdirs/m4388/Project*-<name>`, such as `Project1-AI4EJ`.
-* Students who work on Project X Group Y will work in a shared directory in CFS at /global/cfs/cdirs/m4388/Project*-Group*, such as `Prj2-GroupB`.
+* Besides those projects materials provided via links in the above table, each project has also prepared the project descriptions and data in the m4388 project area on the Community File System (CFS) on Perlmutter at `/global/cfs/cdirs/m4388/Project*-<name>`, such as `Project2-ClimRR`.
+* Students who work on Project X Group Y will work in a shared directory in CFS at /global/cfs/cdirs/m4388/Project*-Group*, such as `Prj2-GroupC`.
 * Using Prj2-GroupC as an example, you can run this command to copy over the entire Project, after login to Perlmutter:
   ```
   cd /global/cfs/cdirs/m4388/Prj3-GroupC
+  cp -r /global/cfs/cdirs/m4388/Project2-ClimRR .
+  ```
+* Any student who would like to do some individual tests can work in their own scratch directory:
+  ```
+  cd $SCRATCH
   cp -r /global/cfs/cdirs/m4388/Project2-ClimRR .
   ```
 * The following are the compute node reservations available during the boot camp (in Pacific time):
   * Monday, 3 pm - 5 pm, reservation name `intro_hpc_aug7`
   * Tuesday, 10:30 am - 5 pm, reservation name `intro_hpc_aug8`
   * Wednesday, 1:30 pm - 5 pm, reservation name `intro_hpc_aug9`
-  * Thursday, 1 pm - 8 pm, reservation name `intro_hpc_aug10`
+  * Thursday, 1 pm - 10 pm, reservation name `intro_hpc_aug10`
 
-## Some Study Materials
+## Study Materials
 
 * [OLCF Intro to Python repo](https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python)
 * [Pandas tutorial](https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
