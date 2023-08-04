@@ -16,6 +16,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Tuesday
 * Wednesday
 * Thursday
+  * How HPC can advance discovery & DOE Researcher Panel (https://docs.google.com/presentation/d/18UNb5CBaO4N3G9qbeUdfHPK3PscLauHPi5UI56jpyPQ/edit?usp=sharing)
 * Friday
   
 ## Projects
