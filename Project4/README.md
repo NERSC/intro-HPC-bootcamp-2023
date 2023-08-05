@@ -44,8 +44,9 @@ No prior HPC knowledge is required. We will guide you through all the necessary 
 
 ## Module 1: Introduction to HPC and Energy Efficiency
 
-
 In this module, you'll be introduced to the concept of HPC and the challenges it presents in terms of power consumption and cooling requirements. You'll learn about the importance of energy efficiency in HPC systems and the potential impact of these systems on marginalized populations.
+
+Please click [here](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Project4/Module01_Understanding_Computer_Power_Consumption.ipynb) to access the Jupyter Notebook for this exercise.
 
 
 ### Understanding Power and Energy Consumption in HPC
@@ -116,7 +117,7 @@ This module provides a foundation for working with HPC applications, parallel co
 In this module, you'll be introduced to data analysis in the context of HPC. Using provided data sets, you'll investigate the distribution of projects and users, resource allocations, utilization rates, and the relationships between various data fields. This will develop your skills in data analysis and interpretation, and encourage critical thinking and data visualization.
 
 
-***Please click here to access the Juypter Notebook for this exercise ***
+Please click [here](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Project4/Module03_NERSC_User_Workload_Power_Analysis.ipynb) to access the Jupyter Notebook for this exercise.
 
 
 **** Optional Additional Supportive Resources will be added here ****
@@ -126,6 +127,9 @@ In this module, you'll be introduced to data analysis in the context of HPC. Usi
 
 
 Welcome to Module 4 of the Intro to High-Performance Computing (HPC) workshop! In this module, we will build on the knowledge gained from the previous sessions and shift our focus to analyzing and comparing the energy efficiency of HPC systems listed in the Top500 and Green500 rankings. As HPC continues to grow in scale and significance, understanding the energy efficiency of these systems becomes crucial due to their environmental and economic impact.
+
+Please click [here](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Project4/Module04_Top500_Power_Analysis.ipynb)) to access the Jupyter Notebook for this exercise.
+
 
 ### Understanding the Top500 and Green500 Rankings:**
 
