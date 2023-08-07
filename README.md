@@ -11,7 +11,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 
 ## Presentations
 * Monday
-  * Tutorial/Talk/Panel title, with link to slides/materials (TBA)
+  * [Introduction to Computational Thinking, Kate Cahill](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/CompThink-new%20template.pdf)
   * Tutorial/Talk/Panel title, with link to slides/materials (TBA)
 * Tuesday
 * Wednesday
