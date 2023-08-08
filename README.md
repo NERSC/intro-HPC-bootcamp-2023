@@ -12,7 +12,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 ## Presentations
 * Monday
   * [Introduction to Computational Thinking, Kate Cahill](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/CompThink-new%20template.pdf)
-  * Tutorial/Talk/Panel title, with link to slides/materials (TBA)
+  * [LBNL Lab Director Welcome Students, Mike Witherell](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Mike_Witherell_NERSC_bootcamp_08072023.pdf)
 * Tuesday
   * [Introduction to Scientific Computing and Data Visualization, Kellen Leland](https://github.com/kellenrl/hpcbootcamp_sc_dv_intro)
 * Wednesday
