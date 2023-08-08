@@ -16,6 +16,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Tuesday
   * [Introduction to Scientific Computing and Data Visualization, Kellen Leland](https://github.com/kellenrl/hpcbootcamp_sc_dv_intro)
 * Wednesday
+  * [Introduction to Regression Analysis, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
 * Thursday
   * How HPC can advance discovery & DOE Researcher Panel (https://docs.google.com/presentation/d/18UNb5CBaO4N3G9qbeUdfHPK3PscLauHPi5UI56jpyPQ/edit?usp=sharing)
 * Friday
