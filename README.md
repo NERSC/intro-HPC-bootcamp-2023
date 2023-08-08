@@ -17,6 +17,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
   * [NERSC Tour, August 2023, Richard Gerber](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/NERSC-Tour-August-2023.pdf)
   * [Using Perlmutter, Daniel Fulton, Rollin Thomas, Helen He](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Using%20Perlmutter.pdf)
   * [Introduction to Scientific Computing and Data Visualization, Kellen Leland](https://github.com/kellenrl/hpcbootcamp_sc_dv_intro)
+  * [Introduction to NERSC and Supercomputing, August 8, 2023, Rebecca Hartman-Baker, Charles Lively III](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/NERSC-Welcome-HPCBootcamp-08072023.pdf)
 * Wednesday
   * [Introduction to Regression Analysis, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
 * Thursday
