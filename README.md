@@ -41,13 +41,13 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Students who work on Project X Group Y will work in a shared directory in CFS at /global/cfs/cdirs/m4388/Project*-Group*, such as `Prj2-GroupC`.
 * Using Prj2-GroupC as an example, you can run this command to copy over the entire Project, after login to Perlmutter:
   ```
-  cd /global/cfs/cdirs/m4388/Prj3-GroupC
-  cp -r /global/cfs/cdirs/m4388/Project2-ClimRR .
+  cd $CFS/m4388/Prj3-GroupC
+  cp -r $CFS/m4388/Project2-ClimRR .
   ```
 * Any student who would like to do some individual tests can work in their own scratch directory:
   ```
   cd $SCRATCH
-  cp -r /global/cfs/cdirs/m4388/Project2-ClimRR .
+  cp -r $CFS/m4388/Project2-ClimRR .
   ```
 * The following are the compute node reservations available during the boot camp (in Pacific time):
   * Monday, 3 pm - 5 pm, reservation name `intro_hpc_aug7`
