@@ -24,9 +24,10 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Wednesday
   * [Introduction to Regression Analysis, Wilbur Ouma](https://github.com/Wilber/hpcbootcamp_regression)
 * Thursday
-  * How HPC can advance discovery & DOE Researcher Panel (https://docs.google.com/presentation/d/18UNb5CBaO4N3G9qbeUdfHPK3PscLauHPi5UI56jpyPQ/edit?usp=sharing)
+  * [How HPC can advance discovery & DOE Researcher Panel, Suzanne Parete-Koon](https://docs.google.com/presentation/d/18UNb5CBaO4N3G9qbeUdfHPK3PscLauHPi5UI56jpyPQ/edit?usp=sharing)
 * Friday
-  
+  * [Intro to HPC Bootcamp Wrapup and Next Steps, Mary Ann Leung](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Intro_HPC_Bootcamp_Next_Steps_Opportunities.pdf)
+ 
 ## Projects
 | **Project (and link project description)**                                                                                                                                                                                                                                    | Project Page                                                                              | Institution              | **Lead**                                      |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------:|:------------------------:|:---------------------------------------------:|
