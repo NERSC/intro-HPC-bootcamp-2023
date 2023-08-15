@@ -13,7 +13,7 @@ This repository contains information related to the Intro to HPC Bootcamp held i
 * Monday
   * [Welcome and Safety Logistics, Rebecca Hartman-Baker](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Welcome_and_Safety_Logistics.pdf)
   * [Intro to HPC Bootcamp Kickoff and Warm-up Activities, Mary Ann Leung](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Intro_HPC_Bootcamp_2023_Kickoff_Warm_Up_Logistics.pdf)
-  * [Energy Justice Keynote Talk, Anjuli Jain Figueroa](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/2023-08-07_Energy_Justice_and_Data-Driven_Decisions_LBNL.pdf)
+  * [Energy Justice Keynote Talk, Anjuli Jain Figueroa](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/2023-08-07-EJ-and-Data-Driven-Decisions-HPC-at-LBNL-AJF.pdf)
   * [Introduction to Computational Thinking, Kate Cahill](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/CompThink-new%20template.pdf)
   * [LBNL Lab Director Welcome Students, Mike Witherell](https://github.com/NERSC/intro-HPC-bootcamp-2023/blob/main/Presentations/Mike_Witherell_NERSC_bootcamp_08072023.pdf)
 * Tuesday
