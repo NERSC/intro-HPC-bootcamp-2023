@@ -1,13 +1,13 @@
 # intro-HPC-bootcamp-2023
 This repository contains information related to the Intro to HPC Bootcamp held in person at Lawrence Berkeley National Laboratory in August 2023. The Bootcamp is hosted by the Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) Computing Facilities at Argonne National Lab (ALCF), Lawrence Berkeley National Lab (NERSC), and Oak Ridge National Lab (OLCF) and organized by Sustainable Horizons Institute.
 
-## Links
+## Links and Study Materials
 
 * [Bootcamp public page](https://shinstitute.org/intro-to-hpc-bootcamp/)
-* [Bootcamp website for participants](https://shinstitute.org/energy-justice-bootcamp-2023/)
-* [Join the Slack workspace](https://join.slack.com/t/introtohpcbootcamp/shared_invite/zt-1zib8v8o7-YScKtNaFBoLif2EvdhcYcQ)
-* [NERSC user account info](https://docs.google.com/document/d/1LgeRCeqpROkfsQ7hmnPJTmRwooHJkpSRXkFxQr0hQhw/)
-* [NERSC JupyterHub](https://jupyter.nersc.gov)
+* [Perlmutter](https://docs.nersc.gov/systems/perlmutter/)
+* [OLCF Intro to Python repo](https://github.com/olcf/foundational_hpc_skills/tree/master/intro_to_python)
+* [Pandas tutorial](https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
+* [Example interactive Notebooks for data research from Environmental Enforcement Watch](https://www.environmentalenforcementwatch.org/data/notebooks)
 
 ## Presentations
 * Monday
